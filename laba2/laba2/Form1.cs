@@ -17,11 +17,6 @@ namespace laba2
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
-        {
-            textBox1.Text = "Война и мир";
-        }
-
         private void button2_Click(object sender, EventArgs e)
         {
             textBox2.Text = "Лев Толстой";
